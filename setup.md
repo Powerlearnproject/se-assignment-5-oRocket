@@ -8,7 +8,7 @@
     ```
     https://code.visualstudio.com/
     ```
-    ![vs_code.jpeg](images/vs_code.jpeg)
+    ![vs_code](images/vs_code)
 - Click on the "Download" button to download the installer.
 
 **Run the Installer:**
