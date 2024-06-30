@@ -1,5 +1,5 @@
 # Installation of VS Code
-![welcome.jpeg](images/welcome.jpeg)
+![welcome.jpg](images/welcome.jpg)
 
 ## Steps to download and install Visual Studio Code on Windows 11
 
@@ -8,7 +8,7 @@
     ```
     https://code.visualstudio.com/
     ```
-    ![vs_code](images/vs_code)
+    ![vs_code.jpg](images/vs_code.jpg)
 - Click on the "Download" button to download the installer.
 
 **Run the Installer:**
@@ -34,29 +34,29 @@
 **Theme:**
 - Open the Command Palette (Ctrl+Shift+P).
 - Type "Preferences: Color Theme" and select a theme that suits your preference (e.g., Dark+, Light+).
-- ![theme.jpeg](images/theme.jpeg)
+- ![theme.jpg](images/theme.jpg)
 
 **Extensions:**
 - Click on the Extensions icon in the Activity Bar or press `Ctrl+Shift+X`.
-- ![extension.jpeg](images/extension.jpeg)
+- ![extension.jpg](images/extension.jpg)
 - Install essential extensions such as:
     - Prettier - Code formatter
     - ESLint
     - Live Server
     - Python
-    - ![python.jpeg](images/python.jpeg)
+    - ![python.jpg](images/python.jpg)
     - IntelliCode
 
 **Settings:**
 - Go to File > Preferences > Settings or press Ctrl+,.
 - Configure settings such as font size, line numbers, auto-save, etc.
 - For example, to change the font size, search for "Font Size" and adjust it.
-- ![font.jpeg](images/font.jpeg)
+- ![font.jpg](images/font.jpg)
 
 **Workspace Setup:**
 - Open a folder for your project by going to File > Open Folder.
 - Create a workspace by saving the workspace file for later use.
-- ![folder.jpeg](images/folder.jpeg)
+- ![folder.jpg](images/folder.jpg)
 
 ## User Interface Overview:
 *Main components of the VS Code user interface:*
@@ -65,19 +65,19 @@
 - Located on the far left of the window.
 - Contains icons for different views such as Explorer, Search, Source Control, Run and Debug, Extensions.
 - Purpose: Quick access to main features and extensions.
-- ![activity.jpeg](images/activity.jpeg)
+- ![activity.jpg](images/activity.jpg)
 
 **Side Bar:**
 - Located next to the Activity Bar.
 - Displays different views depending on the selected Activity Bar icon.
 - For example, the Explorer view shows the file and folder structure of the opened project.
-- ![side.jpeg](images/side.jpeg)
+- ![side.jpg](images/side.jpg)
 
 **Status Bar:**
 - Located at the bottom of the window.
 - Shows information about the current file, such as encoding, line endings, language mode, Git branch, and errors/warnings.
 - Purpose: Provide contextual information and quick actions.
-- ![status.jpeg](images/status.jpeg)
+- ![status.jpg](images/status.jpg)
 
 ## Integrated Terminal
 *How to open and use the integrated terminal:*
@@ -90,9 +90,9 @@
     - Access terminal without leaving the editor.
     - Run commands, scripts, and manage version control within the same window.
     - Supports multiple terminal instances.
-![terminal.jpeg](images/terminal.jpeg)
+![terminal.jpg](images/terminal.jpg)
 
-![terminal2.jpeg](images/terminal2.jpeg)
+![terminal2.jpg](images/terminal2.jpg)
 
 ## File and Folder Management:
 *Creating, opening, and managing files and folders:*
